@@ -10,4 +10,9 @@ This is added rom pycharm develop2.
 
 This line is edited from github webpage.
 
-This line is edited from github webpage2.
+This line is edited from github webpage2. (edited by feature)
+
+added by feature1
+
+added by feature2
+
